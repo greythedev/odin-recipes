@@ -16,3 +16,5 @@ Recipes are the pages that are dedicated for the dishes listed in the Home page.
 It includes the required ingredients and steps in completing the dishes.
 
 This introductory project helped my understanding in basic html tags, lists, and linkings.
+
+### [Check out the website here!](https://greythedev.github.io/odin-recipes/)
